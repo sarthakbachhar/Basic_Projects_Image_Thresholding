@@ -14,7 +14,7 @@ This project demonstrates three image thresholding techniques: Binary, Adaptive 
 Install the required libraries using pip:
 
     ```bash
-    pip install opencv-python matplotlib numpy
+        pip install opencv-python matplotlib numpy
 
 ## Usage
 
